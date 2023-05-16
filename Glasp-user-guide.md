@@ -69,7 +69,7 @@ To do this:
 
 1. Tap on the Chrome extension menu icon at the top right corner of your browser 
 
-![extension icon](Image/Chrome%20extension.jpeg)
+![extension icon](Image/EXTENSION.jpeg)
 
 2. From the drop-down menu, tap on the glasp icon
 3. Then click on the pin icon against glasp
@@ -85,7 +85,7 @@ To do this:
 
 1. Tap on the Glasp icon that you pinned at the top right corner of your browser
 
-![glasp icon](Image/Glasp%20icon.jpeg)
+![glasp icon](Image/PIN%20GLASP.jpeg)
 
 2. Tap on Sign up (beta) written against a blue background 
 
@@ -128,7 +128,7 @@ To do this:
 
 4. Select any color of your choice and it will reflect against the chunk of texts. The highlighted text will mappear by the sidebar.
 
-![highlight text](Image/Comment.jpeg)
+![highlight text](Image/View%20highlight.jpeg)
 
 ### **Note Taking**
 Glasp makes it possible for you to input some notes into your Highlighted contents.
